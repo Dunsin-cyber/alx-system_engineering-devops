@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Art1
+ls -At1
