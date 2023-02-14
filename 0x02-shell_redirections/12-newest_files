@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la -Art
+ls -Art1
