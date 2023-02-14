@@ -1,2 +1,2 @@
 #!/bin/bash
-cat words_file | sort | uniq -c | grep -e '^\s.*1\s' | awk '{print $NF}'
+sort < text_file | uniq -c | grep -e '^\s.*1\s' | awk '{print $NF}'
